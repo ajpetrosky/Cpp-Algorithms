@@ -5,3 +5,7 @@
  *
  * Author: ajpetrosky
  **/
+
+#include <vector>
+
+int select(std::vector<int> v, int k);
