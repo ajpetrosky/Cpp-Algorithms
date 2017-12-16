@@ -8,6 +8,8 @@
 #ifndef SORTS_H
 #define SORTS_H
 
-void bubbleSort(int *arr);
+#include <vector>
+
+std::vector<int> bubbleSort(std::vector<int> v);
 
 #endif
