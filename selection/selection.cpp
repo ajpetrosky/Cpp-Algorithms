@@ -7,8 +7,6 @@
  **/
 
 #include <math.h>
-#include <iostream>
-#include <algorithm>
 #include "selection.h"
 
 // Simple implementation of insertion sort for int vectors
